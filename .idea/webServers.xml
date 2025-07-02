@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fb517caa-7a20-430e-b599-f5aac0610412" name="zheda">
+        <fileTransfer rootFolder="/j02054/agent_tuning/open_data_constr_project" accessType="SFTP" host="10.160.199.103" port="30401" sshConfigId="0033ec03-475c-4079-9656-d28f77d54f3c" sshConfig="root@10.160.199.103:30401 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

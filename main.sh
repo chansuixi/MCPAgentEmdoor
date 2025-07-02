@@ -1,0 +1,1 @@
+nohup python main.py > nohup_1.out 2>&1 &
